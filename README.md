@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Using SDXL
 
-[Link to Original Model Conversion Using Stable Diffusion XL Section](#using-stable-diffusion-xl)
+[Using Stable Diffusion XL section below](#using-stable-diffusion-xl)
 
 ### Model Conversion
 
@@ -105,7 +105,7 @@ Refiner model is not yet supported
 ControlNet for XL is not yet supported on either
 - Boooo 👎
 
-<br><br>
+<br>
 
 # You gotta run, run, run, run, run
 
@@ -150,12 +150,14 @@ swift run StableDiffusionSample \
 <br>
 
 # Stable Genius Swift App
->[!NOTE]
+
+Maybe I build this.
+
 >🤗 Hugging Face created an [open-source demo app](https://github.com/huggingface/swift-coreml-diffusers) on top of this library. It's written in native Swift and Swift UI, and runs on macOS, iOS and iPadOS. You can use the code as a starting point for your app, or to see how to integrate this library in your own projects.
 >
 >Hugging Face has made the app [available in the Mac App Store](https://apps.apple.com/app/diffusers/id1666309574?mt=12).
 >
->https://github.com/apple/ml-stable-diffusion?tab=readme-ov-file#-example-swift-app
+>[Example Swift App below](##-example-swift-app)
 
 <br>
 
