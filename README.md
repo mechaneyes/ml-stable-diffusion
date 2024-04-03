@@ -5,7 +5,7 @@ Run Stable Diffusion on Apple Silicon with Core ML
 ![PROMPT="healthy boy eating broken glass for breakfast"](healthy_boy_eating_broken_glass_for_breakfast-2.0.0.jpg)
 
 *PROMPT="healthy boy eating broken glass for breakfast"*<br>
-*hat tip chairman, bruce sterling*
+*hat tip to chairman, bruce sterling*
 
 <br>
 
