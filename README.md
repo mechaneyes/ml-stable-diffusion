@@ -157,7 +157,7 @@ Maybe I build this.
 >
 >Hugging Face has made the app [available in the Mac App Store](https://apps.apple.com/app/diffusers/id1666309574?mt=12).
 >
->[Example Swift App below](##-example-swift-app)
+>[Example Swift App below](#example-swift-app)
 
 <br>
 
